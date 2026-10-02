@@ -1,3 +1,4 @@
+
 # AI-Powered Cybersecurity Threat Detection System
 
 An educational, dataset-driven machine-learning project that classifies synthetic network-event records as **Benign** or **Potential Threat** and presents results in a SOC-style Streamlit dashboard.
@@ -74,7 +75,7 @@ For a stronger research version, replace or supplement the synthetic data with a
 
 ## Suggested project structure
 
-```text
+
 AI-Powered-Cybersecurity-Threat-Detection-System/
 ├── app.py
 ├── src/
@@ -86,7 +87,7 @@ AI-Powered-Cybersecurity-Threat-Detection-System/
 ├── requirements.txt
 ├── .gitignore
 └── README.md
-```
+
 
 ## Limitations and future improvements
 
@@ -102,3 +103,7 @@ AI-Powered-Cybersecurity-Threat-Detection-System/
 ## Ethical use
 
 Use this application for defensive learning, synthetic simulation, and authorized datasets. Do not upload confidential logs or use outputs to take disruptive actions without human review.
+
+# AI-Powered-Cybersecurity-Threat-Detection-System
+Machine-learning-based cybersecurity threat detection using synthetic network events, model evaluation, and an interactive Streamlit SOC dashboard.
+
